@@ -1,0 +1,38 @@
+{
+	"name": "WP Activity Logger",
+	"version": "1.0.1",
+	"download_url": "http://wpplugins-googletestimonials.growmeconsulting.ca/google-reviews/google-reviews.zip",
+
+	"homepage": "https://www.dmytrokovalenko.online/",
+	"requires": "7.4",
+	"tested": "8.1",
+	"last_updated": "2025-01-23 11:17:00",
+	"upgrade_notice": "Changed google logo class for sv",
+
+	"author": "Dmytro Kovalenko",
+	"author_homepage": "https://www.dmytrokovalenko.online/",
+
+	"sections": {
+		"description": "Widget to extend Elementor, adding Google testimonial slider",
+		"installation": "",
+		"changelog": "",
+		"custom_section": ""
+	},
+	
+	"icons" : {
+		"1x" : "http://w-shadow.com/files/external-update-example/assets/icon-128x128.png",
+		"2x" : "http://w-shadow.com/files/external-update-example/assets/icon-256x256.png"
+    },
+
+	"banners": {
+		"low": "http://w-shadow.com/files/external-update-example/assets/banner-772x250.png",
+		"high": "http://w-shadow.com/files/external-update-example/assets/banner-1544x500.png"
+	},
+
+	"translations": [],
+	"rating": 0,
+	"num_ratings": 0,
+
+	"downloaded": 0,
+	"active_installs": 0
+}
